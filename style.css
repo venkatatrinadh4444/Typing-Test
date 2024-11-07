@@ -1,0 +1,36 @@
+#speedTypingTest {
+    background-color: #f181eab5;
+}
+.mainHead {
+    color: #690cb0;
+}
+.message{
+    color: #3e4c59;
+}
+#timer {
+    font-size: 28px;
+}
+.content {
+    border: 1px solid #9aa5b1;
+    border-radius: 12px;
+    background-color: #f9c0ffb4;
+    color: #323f4b;
+    font-weight: 500;
+}
+#submitBtn {
+    background-color: #690cb0;
+    color: white;
+    margin-right: 12px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+#resetBtn {
+    border-radius: 8px;
+    background-color: white;
+    font-weight: 600;
+}
+#result {
+    font-weight:500;
+    color: #323f4b;
+    margin-bottom: 18px;
+}
